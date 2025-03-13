@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 
 const TELEGRAM_BOT_TOKEN = '8097859956:AAEGCv2Mt-PM2VymTa2KEJyWC1dPXCdHlzM'; // Replace with actual bot token
-const TELEGRAM_CHAT_ID = '-1002085461590YOUR_CHAT_ID'; // Replace with actual chat ID
+const TELEGRAM_CHAT_ID = '-1002627549426YOUR_CHAT_ID'; // Replace with actual chat ID
 
 async function sendTelegramMessage(message) {
     try {
